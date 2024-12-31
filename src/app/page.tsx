@@ -93,7 +93,7 @@ export default function Page() {
               </BlurFade>
               <BlurFade delay={BLUR_FADE_DELAY}>
                 <PulsatingButton className="tracking-tighter">
-                  <a href="/resume/resume.pdf" download="Resume">
+                  <a href="/resume/Resume.pdf" download="Resume">
                     Hire Me
                   </a>
                 </PulsatingButton>

@@ -34,3 +34,14 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# Updates Hiding
+/LICENSE
+/next-env.d.ts
+/next.config.mjs
+/package-lock.json
+/package.json
+/pnpm-lock.json
+/postcss.config.mjs
+/tailwind.config.ts
+/tsconfig.json

@@ -8,10 +8,10 @@ export const DATA = {
   location: "Patna, Bihar",
   locationLink: "https://www.google.com/maps/place/patna",
   description:
-    "Aspiring Software Developer | BCA '23 | MERN | Problem Solver | Git | Always Learning | Connect ! Active on LinkedIn",
+    "Aspiring Software Developer | BCA '23 | MERN | Problem Solver | Git | Connect ! Active on LinkedIn",
   summary:
     "At the end of 2023, After Completing my Degree in Bachelor's Degree of Computer Science & Application (BCA), I'm Mastering MERN Stack And Data Structure & Algorithm and [Competed in over 10 Front-End Projects].",
-  avatarUrl: "/image/Profile.jpg",
+  avatarUrl: "/image/Profile.png",
   skills: [
     "HTML 5",
     "CSS 3",
@@ -21,8 +21,14 @@ export const DATA = {
     "Router",
     "Redux-Toolkit",
     "Next",
-    "Mongo DB",
+    "RESTful API",
     "Express",
+    "Mongo DB",
+    "Mongoose-ODM",
+    "JWT (JSon Web Token)",
+    "Cookies",
+    "Postman",
+    "Cloudinary",
     "Node",
     "C++",
     "Java",
